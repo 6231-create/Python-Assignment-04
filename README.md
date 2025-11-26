@@ -1,8 +1,6 @@
 (a) Explain the key features of NumPy and highlight the major
 differences between NumPy arrays and Python lists
-with appropriate examples.(a) Explain the key features of NumPy and highlight the major
-differences between NumPy arrays and Python lists
-with appropriate examples. 
+with appropriate examples.
 
 | Feature        | NumPy Array (`ndarray`)                | Python List                              |
 | -------------- | -------------------------------------- | ---------------------------------------- |
